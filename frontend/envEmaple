@@ -1,0 +1,5 @@
+OPEN_API_URL='https://api.openai.com/v1/engines/davinci/completions'
+REACT_APP_BASE_URL="localhost"
+REACT_APP_BASE_PORT="3000"
+REACT_APP_API_BASE_URL="http://localhost:3001"
+REACT_APP_API_BASE_PORT="3001"
